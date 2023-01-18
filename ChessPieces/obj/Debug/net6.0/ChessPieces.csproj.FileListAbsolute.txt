@@ -1,0 +1,12 @@
+/Users/jacobbramwell/Projects/ChessPieces/ChessPieces/obj/Debug/net6.0/ChessPieces.csproj.AssemblyReference.cache
+/Users/jacobbramwell/Projects/ChessPieces/ChessPieces/obj/Debug/net6.0/ChessPieces.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jacobbramwell/Projects/ChessPieces/ChessPieces/obj/Debug/net6.0/ChessPieces.AssemblyInfoInputs.cache
+/Users/jacobbramwell/Projects/ChessPieces/ChessPieces/obj/Debug/net6.0/ChessPieces.AssemblyInfo.cs
+/Users/jacobbramwell/Projects/ChessPieces/ChessPieces/obj/Debug/net6.0/ChessPieces.csproj.CoreCompileInputs.cache
+/Users/jacobbramwell/Projects/ChessPieces/ChessPieces/bin/Debug/net6.0/ChessPieces.deps.json
+/Users/jacobbramwell/Projects/ChessPieces/ChessPieces/bin/Debug/net6.0/ChessPieces.dll
+/Users/jacobbramwell/Projects/ChessPieces/ChessPieces/bin/Debug/net6.0/ChessPieces.pdb
+/Users/jacobbramwell/Projects/ChessPieces/ChessPieces/obj/Debug/net6.0/ChessPieces.dll
+/Users/jacobbramwell/Projects/ChessPieces/ChessPieces/obj/Debug/net6.0/refint/ChessPieces.dll
+/Users/jacobbramwell/Projects/ChessPieces/ChessPieces/obj/Debug/net6.0/ChessPieces.pdb
+/Users/jacobbramwell/Projects/ChessPieces/ChessPieces/obj/Debug/net6.0/ref/ChessPieces.dll
