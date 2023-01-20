@@ -21,7 +21,7 @@ namespace ChessPieces
 
 
     //Constructors
-    public Chess(string type,string pos)
+    public Chess(string type,string pos) 
         {
             Pos = pos;
             Type = type;    
